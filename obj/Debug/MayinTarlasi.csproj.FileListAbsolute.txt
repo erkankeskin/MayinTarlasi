@@ -1,0 +1,27 @@
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojResolveAssemblyReference.cache
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.Cache
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\eko\Desktop\C# Programlama Erkan\1. kur projesi\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojResolveAssemblyReference.cache
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+D:\ERkan\EKO\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.Cache
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csprojResolveAssemblyReference.cache
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\Eko\Desktop\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.Cache
